@@ -1,7 +1,7 @@
 public class EnhancedFor
 {
 	public static void main(String[] args)
-	{	int[] list ={1, 2, 3, 4, 5};
+	{	int[] list ={1, 2, 3, 4, 5,6};
 		int sum = sumListEnhanced(list);
 		System.out.println("Sum of elements in list: " + sum);
 
